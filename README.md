@@ -13,7 +13,21 @@ The analysis aims to understand revenue trends, customer behavior, and identify 
 ☕ Product Contribution: Coffee products account for R58 416,00 & Tea R45 499,00 while other products have a declining increase.
 
 ## The repository includes:
-📂 BRIGHT-COFFEE-SHOP: Objective description and sales data from January to June.
-📂 Working Files: Output data from SQL analysis.
 
-Do you want to know more about the analysis or the project's objectives? ‎<This message was edited>
+📂 BRIGHT COFFEE PLAN: MIRO planning tamplete.
+
+📂 BRIGHT COFFEE SHOP CODE: SQL Code using Snowflake.
+
+📂 BRIGHT COFFEE SHOP DATA: Output data from SQL analysis in CSV file.
+
+📂 BRIGHT COFFEE SHOP PRESENTATION: Objective description and sales data from January to June.
+
+
+## Tools 
+MIRO
+
+SNOWFLAKE
+
+EXCEL
+
+CANVA
